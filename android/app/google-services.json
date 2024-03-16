@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439938353015",
+    "firebase_url": "https://homesevi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "homesevi",
+    "storage_bucket": "homesevi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439938353015:android:c359fb9ec8c18603be4372",
+        "android_client_info": {
+          "package_name": "com.homesevi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439938353015-8n9pd5sncob0gbj7qbtbeneehglntqaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homesevi",
+            "certificate_hash": "b02a08bc20ca10e098552f87f163fe7088e9efa4"
+          }
+        },
+        {
+          "client_id": "439938353015-3ele63ehd95smq565fblvf4u2vn986ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfvFNbGjRvwR0hNq_WtcamOTJHrcljb-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439938353015-3ele63ehd95smq565fblvf4u2vn986ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
